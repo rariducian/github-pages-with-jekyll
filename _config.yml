@@ -1,15 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Mann Khor's Resume
+author: Mann Khor
+email: mannhingkhor@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome - my name is Mann and I'm a product manager @ Points. We build products for loyalty programs such as Emirates, United Airlines and Virgin Atlantic to name a few.
+  mann khor resume
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+github_username:  rariducian
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minima
